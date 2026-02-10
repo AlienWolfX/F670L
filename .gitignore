@@ -1,0 +1,7 @@
+# Folders
+Dump/*
+extracted/*
+
+# Files
+*.py
+notes.txt
