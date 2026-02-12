@@ -1,7 +1,9 @@
 # Folders
 Dump/*
 extracted/*
+bin/*
+e8_Config_Backup/*
 
 # Files
-*.py
 notes.txt
+decrypt_config.py
