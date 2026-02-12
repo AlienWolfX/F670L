@@ -29,4 +29,5 @@ This is not exactly a F670L modem, but rather an H2-2 modem with the following s
 
 ## Configuration Decryption and Encryption
 
-> [!NOTE] Decryption is functional. Encryption functionality is currently in development.
+> [!NOTE]
+> Decryption is functional. Encryption functionality is currently in development.
