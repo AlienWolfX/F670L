@@ -1,6 +1,6 @@
 # F670L Firmware Research
 
-Tools and notes for unpacking, modifying, rebuilding, and repacking an
+Tools and notes for unpacking, modifying, rebuilding, and repacking a
 F670L-family firmware image. Firmware flashing can permanently damage or
 brick the device. Keep a known-good recovery method and an original copy of
 the firmware available before proceeding.
@@ -152,6 +152,8 @@ python3 firmware_mod/firmware_stuff.py verify f670l-mod.bin
 ```
 
 Keep `f670l.bin.bak` until the modified firmware has been tested successfully.
+
+To test simply login with your admin account go to the Software Upgrade/Update page and just upload the file.
 
 ## Decrypting or encrypting factory configuration
 
