@@ -1,0 +1,9 @@
+root/*
+firmware_mod/*
+.venv/*
+__pycache__/*
+
+*.xml
+key.py
+xor.py
+config_decrypt.py
